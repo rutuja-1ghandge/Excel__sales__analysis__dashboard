@@ -1,4 +1,4 @@
-# Sales Dashboard – Excel Project
+<img width="1016" height="573" alt="image" src="https://github.com/user-attachments/assets/92b17cda-5d05-4b77-8e83-07cdfa4f2f5e" /># Sales Dashboard – Excel Project
 
 This project showcases a dynamic Sales Dashboard created using Microsoft Excel.
 The dashboard provides interactive, visual insights into sales performance across multiple dimensions such as region, category, state, and month.
@@ -8,6 +8,7 @@ The dashboard provides interactive, visual insights into sales performance acros
 This Excel dashboard helps analyze:
 
 Region-wise Sales
+<img width="1016" height="573" alt="image" src="https://github.com/user-attachments/assets/d2ca6fac-36d3-4426-b9f7-4b4d8733acc1" />
 
 Category-wise Sales
 
@@ -102,3 +103,4 @@ Removed duplicates
 Handled blank cells
 
 Standardized data types
+
